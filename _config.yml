@@ -1,0 +1,28 @@
+name: troyandzara
+favicon: null
+layout_spectrum: 0.11362464423291385
+typography_spectrum: 0.3844594876281917
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9986502488609403
+  lightness: 0.2918693623505533
+  saturation: 0.34227732685394585
+  rhythmicContrast: 0.37921863445080817
+purpose: []
